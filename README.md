@@ -6,6 +6,9 @@
 [![Website badge](https://img.shields.io/badge/website-45423b?style=for-the-badge&logo=About.me&logoColor=white)](https://shaswatanand.com/)
 [![Google Scholar badge](https://img.shields.io/badge/Scholar-0D96F6?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=JkKWIm8AAAAJ)
 
+
+<!-- Trophies -->
+![Shaswat's GitHub stats](https://github-profile-trophy.vercel.app/?username=shaswat-indian&theme=gruvbox&no-bg=true&no-frame=true&column=-1)
    
 
 #### Some stats to get started...

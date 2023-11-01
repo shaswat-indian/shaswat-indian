@@ -1,4 +1,4 @@
-### Hello World 👋, I'm [Shaswat](https://shaswatanand.co.in)
+### Hello World 👋, I'm [Shaswat](https://shaswatanand.com)
 
 
 <!-- Badges -->
